@@ -16,6 +16,6 @@ int main(){
         cout<<arr[i]<<" ";
     }
     cout<<endl;
-    cout<<"mediam value"<<endl;
+    cout<<"mediam value"<<mediam<<endl;
     return 0;
 }
